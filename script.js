@@ -5,7 +5,7 @@ const TAGLINES = [
   "BLOCKBUSTER // DISTRIBUTED SYSTEMS",
   "ACCLAIMED // ALGORITHMIC PROBLEM SOLVER"
 ];
-const STACK_TAGS = ["React","Node.js","Express","PostgreSQL","MongoDB","Docker","JavaScript"];
+const STACK_TAGS = ["PRODUCT THINKING","CUSTOMER INSIGHTS","STAKEHOLDER ALIGNMENT","CROSS-FUNCTIONAL DELIVERY","PROBLEM DISCOVERY","AI & AZURE","DEPENDENCY MANAGEMENT"];
 const EXPERTISE = [
   {number:"01",title:"Frontend Development",text:"Crafting responsive, high-fidelity user interfaces with React, modern JavaScript, Tailwind CSS, and buttery smooth GSAP motion interactions.",tag:"UI / UX & INTERACTION",grad:"linear-gradient(145deg,#1f0a0c,#121212 60%,#0a0a0a)"},
   {number:"02",title:"Backend Development",text:"Architecting secure REST APIs, enterprise authentication pipelines, and scalable database schemas across PostgreSQL and MongoDB.",tag:"API & ARCHITECTURE",grad:"linear-gradient(145deg,#1a0809,#111111 60%,#090909)"},

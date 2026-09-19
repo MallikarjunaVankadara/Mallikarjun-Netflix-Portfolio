@@ -7,10 +7,10 @@ const TAGLINES = [
 ];
 const STACK_TAGS = ["PRODUCT THINKING","CUSTOMER INSIGHTS","STAKEHOLDER ALIGNMENT","CROSS-FUNCTIONAL DELIVERY","PROBLEM DISCOVERY","AI & AZURE","DEPENDENCY MANAGEMENT"];
 const EXPERTISE = [
-  {number:"01",title:"Frontend Development",text:"Crafting responsive, high-fidelity user interfaces with React, modern JavaScript, Tailwind CSS, and buttery smooth GSAP motion interactions.",tag:"UI / UX & INTERACTION",grad:"linear-gradient(145deg,#1f0a0c,#121212 60%,#0a0a0a)"},
-  {number:"02",title:"Backend Development",text:"Architecting secure REST APIs, enterprise authentication pipelines, and scalable database schemas across PostgreSQL and MongoDB.",tag:"API & ARCHITECTURE",grad:"linear-gradient(145deg,#1a0809,#111111 60%,#090909)"},
-  {number:"03",title:"AI & Machine Learning",text:"Integrating production-grade LLM workflows, predictive machine learning pipelines, and computer vision systems backed by AWS AI certification.",tag:"INTELLIGENCE & ML",grad:"linear-gradient(145deg,#220a0d,#131313 60%,#0a0a0a)"},
-  {number:"04",title:"Cloud & Deployment",text:"Deploying resilient, containerized multi-tenant services using Docker, GitHub Actions CI/CD workflows, and optimized cloud hosting.",tag:"DEVOPS & CLOUD",grad:"linear-gradient(145deg,#1d090b,#101010 60%,#080808)"}
+  {number:"01",title:"Enterprise Systems & Troubleshooting",text:"Solving complex technical problems across enterprise applications, infrastructure, integrations, and AI-enabled products, with a focus on reliability and customer impact.",tag:"TECHNICAL ENGINEERING",grad:"linear-gradient(145deg,#1f0a0c,#121212 60%,#0a0a0a)"},
+  {number:"02",title:"Product Thinking & Customer Insights",text:"Translating customer problems and technical signals into clear requirements, product opportunities, and practical improvements while balancing user needs, technical feasibility, and business impact.",tag:"PRODUCT & CUSTOMER",grad:"linear-gradient(145deg,#1a0809,#111111 60%,#090909)"},
+  {number:"03",title:"AI-Enabled Product Solutions",text:"Exploring how AI, automation and product capabilities can simplify workflows, improve customer experiences and turn recurring operational problems into scalable solutions..",tag:"AI & PRODUCT INNOVATION",grad:"linear-gradient(145deg,#220a0d,#131313 60%,#0a0a0a)"},
+  {number:"04",title:"Coordinating engineering teams, partners, vendors and stakeholders to drive complex technical initiatives through planning, dependency management, risk resolution and delivery.",grad:"linear-gradient(145deg,#1d090b,#101010 60%,#080808)"}
 ];
 const SKILLS = [
   {title:"Frontend Engineering",desc:"Crafting responsive and interactive user interfaces using React, JavaScript, HTML5, CSS3, and Tailwind CSS.",tag:"UI / INTERACTION",skills:["React","JavaScript","Tailwind CSS","HTML5","CSS3"]},
